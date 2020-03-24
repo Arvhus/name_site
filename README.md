@@ -4,14 +4,11 @@ Basic Website Creation Tasks
 
 ## Goal
 
-Learn more about Website Creation
-
-## **1.** Resume Template
-
-Exploring static websites and deploying to S3 and hosting with Route 53
+Learn more about Website Creation. Starting off by creating a static website that serves as Profile and also links to additional content generated.
 
 ### Tools used
 
+* AWS (S3, Route 88)
 * HTML
 * CSS
 * JavaScript
