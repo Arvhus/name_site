@@ -19,3 +19,4 @@ Learn more about Website Creation. Starting off by creating a static website tha
 * [How to Make A Website](https://www.w3schools.com/howto/howto_make_a_website.asp)
 * [Mozilla Developed Network - Tutorials](https://developer.mozilla.org/en-US/docs/Web/Tutorials)
 * [LinkedIn Guide to Open Graph Protocol](https://www.linkedin.com/help/linkedin/answer/46687/making-your-website-shareable-on-linkedin?lang=en)
+* [Favicon and App Icon Generator](https://www.favicon-generator.org/)
